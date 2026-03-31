@@ -1,1 +1,3 @@
-print('Hello from repository!')
+print('Мяу')
+print('Привет')
+print('B')
